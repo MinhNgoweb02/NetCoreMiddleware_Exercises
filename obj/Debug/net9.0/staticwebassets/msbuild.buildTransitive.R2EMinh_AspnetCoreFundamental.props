@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\R2EMinh_AspnetCoreFundamental.props" />
+</Project>
