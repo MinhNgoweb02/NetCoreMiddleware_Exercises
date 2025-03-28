@@ -8,6 +8,10 @@ if (!Directory.Exists("Logs"))
 
 app.UseMiddleware<LoggingMiddleware>();
 
-app.MapGet("/", () => "Hello World!");
+app.MapGet("/", () => 
+    "I am Minh Van Ngo\n" +
+    "I am a Software Engineer\n" +
+    "This is my assignment for today - AspnetCoreMiddleware"
+);
 
 app.Run();
