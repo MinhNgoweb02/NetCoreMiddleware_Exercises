@@ -1,0 +1,16 @@
+---HTTP Request Logging---
+Timestamp: 2025-03-30 00:14:15
+Schema: http
+Host: localhost:5095
+Path: /
+QueryString: 
+Request Body: 
+                             -
+---HTTP Request Logging---
+Timestamp: 2025-03-30 00:14:19
+Schema: http
+Host: localhost:5095
+Path: /elastic-check
+QueryString: 
+Request Body: 
+                             -
