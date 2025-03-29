@@ -1,0 +1,3 @@
+http://localhost:9200/request-logs/_search?pretty : Hiển thị danh sách tất cả các index trong Elasticsearch
+http://localhost:9200/_cat/indices?v : Tìm kiếm và xem các log đã ghi trong index request-logs
+http://localhost:5095/elastic-check : api check
